@@ -1,0 +1,20 @@
+.product{
+    height: 120px;
+    width: 350px;
+    /* border: 2px solid red; */
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .4);
+    background: #ffff;
+    
+}
+.product button{
+    width: 95%;
+    position: relative;
+    margin-top: 20px;
+    border: none;
+    font-size: 1.3rem;
+    font-weight: 800;
+}
+.product button:hover{
+    background: pink;
+}
